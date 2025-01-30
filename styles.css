@@ -1,0 +1,45 @@
+body {
+    background: black;
+    margin: 10;
+}
+div.ellipsis {
+   justify-content: space-between;
+}
+div.post {
+    width: 400px;
+    height: 550px;
+    margin: auto;
+    background: white;
+}
+div.post-header {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+   
+}
+
+div.post-img img {
+    width: 400px;
+    height: 300px;
+
+    
+}
+div.post-text p {
+    margin-top: 5px;
+  
+}
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.titles h4,p{
+ margin:0px   
+}
+.titles{
+    margin-right:auto;
+    margin-left: 5px
+}
+.bottom{
+    padding: 10px;
+}
