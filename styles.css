@@ -3,7 +3,7 @@ body {
     margin: 10;
 }
 div.ellipsis {
-   justify-content: space-between;
+   justify-content:space-between;
 }
 div.post {
     width: 400px;
